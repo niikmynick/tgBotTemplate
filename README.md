@@ -17,3 +17,5 @@ How to start?
 5. Modify existing handlers or create new ones in `handlers.py`
 
 6. Run `main.py` and have fun with your bot
+
+   `python main.py`
